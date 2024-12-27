@@ -1,3 +1,7 @@
+##Nestlé PowerBI Test 03/2024
+
+### O Desafio
+
 O Projeto em questão trata-se de um desafio de conhecimento em Power BI aplicado pela Nestlé para avaliação de habilidades. Segue abaixo os processos avaliados:
 
 
@@ -23,7 +27,7 @@ O Projeto em questão trata-se de um desafio de conhecimento em Power BI aplicad
 4. **Visualization**  
    4.1. Showcase Best Practices in Visualization
 
-##Resultado:
+### Resolução:
 
 O Dashboard criado é composto por três telas interativas correpondentes às imagens a seguir:
 
@@ -40,20 +44,20 @@ Tela 3 (Revenue Analysis View)
 ![image](https://github.com/user-attachments/assets/b06d0a24-79bf-4ada-958d-f9537ec4e900)
 
 
-Os botões interativos exibidos na lateral esquerda das telas 2 e três tem as seguintes funções respectivamnete:
-- Retornar á página inicial
-- Navegar entre as páginas 2 e 3
+Os botões interativos exibidos na lateral esquerda das telas 2 e 3 tem as seguintes funções respectivamnete:
+- Retornar à tela inicial
+- Navegar entre as telas 2 e 3
 - Ecibir os filtros interativos
 
 ![image](https://github.com/user-attachments/assets/f04fd31f-8f2d-42b9-b12b-15ed5d29f6e4)
 
 
-###Modelagem e relacionamentos:
+### Modelagem e relacionamentos:
 
 ![image](https://github.com/user-attachments/assets/188c9be7-ce1f-44f0-bbe2-420c7f4bb21a)
 
 
-###Feedback:
+### Feedback:
 
 ( + ) Pontos positivos
 
