@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2391b599-f9a7-43ea-b219-95446315aff7)O Projeto em questão trata-se de um desafio de conhecimento em Power BI aplicado pela Nestlé para avaliação de habilidades. Segue abaixo os processos avaliados:
+O Projeto em questão trata-se de um desafio de conhecimento em Power BI aplicado pela Nestlé para avaliação de habilidades. Segue abaixo os processos avaliados:
 
 
 1. **Data Load**  
