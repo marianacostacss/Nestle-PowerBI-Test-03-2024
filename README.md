@@ -1,5 +1,5 @@
 O Projeto em questão trata-se de um desafio de conhecimento em Power BI aplicado pela Nestlé para avaliação de habilidades. Segue abaixo os processos avaliados:
-
+\n
 
 1. **Data Load**  
    1.1. Parameter Creation and Loading Dimension Tables  
@@ -26,14 +26,15 @@ O Projeto em questão trata-se de um desafio de conhecimento em Power BI aplicad
 Resultado:
 
 O Dashboard criado é composto por três telas interativas correpondentes às imagens a seguir:
+
 Tela 1 (Home)
 ![image](https://github.com/user-attachments/assets/0997b441-b79b-476b-b20c-316ea95382fe)
 
-Tela 2 ()
+Tela 2 (Sales First View)
 
 ![image](https://github.com/user-attachments/assets/d9d9fea3-70c1-4b25-8764-f9f9ac805abb)
 
-Tela 3 ()
+Tela 3 (Revenue Analysis View)
 
 ![image](https://github.com/user-attachments/assets/b06d0a24-79bf-4ada-958d-f9537ec4e900)
 
