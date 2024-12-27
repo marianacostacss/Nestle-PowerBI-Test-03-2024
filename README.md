@@ -57,49 +57,4 @@ Os botões interativos exibidos na lateral esquerda das telas 2 e 3 tem as segui
 ![image](https://github.com/user-attachments/assets/188c9be7-ce1f-44f0-bbe2-420c7f4bb21a)
 
 
-### Feedback:
-
-( + ) Pontos positivos
-
-( - ) Pontos de melhoria
-
-
-
-Power Query:
-
-Utilizou parâmetros ( + )
-
-Passos não optimizados – o mesmo passo é feito várias vezes na mesma query desnecessariamente ( - )
-
-Não utilizou função como solicitado ( - )
-
-                                             
-
-Tabelas importadas:
-
-Relacionamento corretos de 1 para muitos( + )
-
-Esquema estrela. ( + )
-
- 
-
-Dax:
-
-Utilização de Variáveis ( + )
-
-Utilização de funções temporais (DATESYTD, DATESMTD e SAMEPERIODLASTYEAR) ( + )
-
-Utilização correta de Filtro (CALCULATE, ALL) ( + )
-
-Utilização correta da função SUMX - Valores corretos ( + )
-
- 
-
-Visual:
-
-Atencioso com os títulos dos visuais ( + )
-
-Escolha ruim de gráficos e visuais ( - )
-
-
    
