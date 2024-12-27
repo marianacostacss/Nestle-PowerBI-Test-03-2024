@@ -23,7 +23,7 @@ O Projeto em questão trata-se de um desafio de conhecimento em Power BI aplicad
 4. **Visualization**  
    4.1. Showcase Best Practices in Visualization
 
-Resultado:
+##Resultado:
 
 O Dashboard criado é composto por três telas interativas correpondentes às imagens a seguir:
 
@@ -48,11 +48,12 @@ Os botões interativos exibidos na lateral esquerda das telas 2 e três tem as s
 ![image](https://github.com/user-attachments/assets/f04fd31f-8f2d-42b9-b12b-15ed5d29f6e4)
 
 
-Modelagem e relacionamentos:
+###Modelagem e relacionamentos:
+
 ![image](https://github.com/user-attachments/assets/188c9be7-ce1f-44f0-bbe2-420c7f4bb21a)
 
 
-Feedback:
+###Feedback:
 
 ( + ) Pontos positivos
 
