@@ -1,4 +1,4 @@
-##Nestlé PowerBI Test 03/2024
+## Nestlé PowerBI Test 03/2024
 
 ### O Desafio
 
@@ -47,7 +47,7 @@ Tela 3 (Revenue Analysis View)
 Os botões interativos exibidos na lateral esquerda das telas 2 e 3 tem as seguintes funções respectivamnete:
 - Retornar à tela inicial
 - Navegar entre as telas 2 e 3
-- Ecibir os filtros interativos
+- Exibir os filtros interativos
 
 ![image](https://github.com/user-attachments/assets/f04fd31f-8f2d-42b9-b12b-15ed5d29f6e4)
 
